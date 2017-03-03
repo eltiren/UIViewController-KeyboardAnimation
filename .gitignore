@@ -4,3 +4,4 @@
 # Exclude user-specific XCode files
 *.xcworkspace
 xcuserdata
+KeyboardAnimation/Build
